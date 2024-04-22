@@ -236,5 +236,3 @@ If you get an error that looks like /usr/bin/xauth: timeout in locking authority
 Restart the vm again
 Test with xeyes - if Xquartz is installed on the Mac OS it should open in an Xquartz window.
 File(s): models/base.py
-
-
